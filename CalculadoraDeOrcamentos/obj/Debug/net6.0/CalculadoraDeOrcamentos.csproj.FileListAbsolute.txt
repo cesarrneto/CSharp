@@ -1,0 +1,15 @@
+C:\Users\Usuario\source\repos\CalculadoraDeOrcamentosDeExames\CalculadoraDeOrcamentos\bin\Debug\net6.0\CalculadoraDeOrcamentos.exe
+C:\Users\Usuario\source\repos\CalculadoraDeOrcamentosDeExames\CalculadoraDeOrcamentos\bin\Debug\net6.0\CalculadoraDeOrcamentos.deps.json
+C:\Users\Usuario\source\repos\CalculadoraDeOrcamentosDeExames\CalculadoraDeOrcamentos\bin\Debug\net6.0\CalculadoraDeOrcamentos.runtimeconfig.json
+C:\Users\Usuario\source\repos\CalculadoraDeOrcamentosDeExames\CalculadoraDeOrcamentos\bin\Debug\net6.0\CalculadoraDeOrcamentos.dll
+C:\Users\Usuario\source\repos\CalculadoraDeOrcamentosDeExames\CalculadoraDeOrcamentos\bin\Debug\net6.0\CalculadoraDeOrcamentos.pdb
+C:\Users\Usuario\source\repos\CalculadoraDeOrcamentosDeExames\CalculadoraDeOrcamentos\obj\Debug\net6.0\CalculadoraDeOrcamentos.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\CalculadoraDeOrcamentosDeExames\CalculadoraDeOrcamentos\obj\Debug\net6.0\CalculadoraDeOrcamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\CalculadoraDeOrcamentosDeExames\CalculadoraDeOrcamentos\obj\Debug\net6.0\CalculadoraDeOrcamentos.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\CalculadoraDeOrcamentosDeExames\CalculadoraDeOrcamentos\obj\Debug\net6.0\CalculadoraDeOrcamentos.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\CalculadoraDeOrcamentosDeExames\CalculadoraDeOrcamentos\obj\Debug\net6.0\CalculadoraDeOrcamentos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\CalculadoraDeOrcamentosDeExames\CalculadoraDeOrcamentos\obj\Debug\net6.0\CalculadoraDeOrcamentos.dll
+C:\Users\Usuario\source\repos\CalculadoraDeOrcamentosDeExames\CalculadoraDeOrcamentos\obj\Debug\net6.0\refint\CalculadoraDeOrcamentos.dll
+C:\Users\Usuario\source\repos\CalculadoraDeOrcamentosDeExames\CalculadoraDeOrcamentos\obj\Debug\net6.0\CalculadoraDeOrcamentos.pdb
+C:\Users\Usuario\source\repos\CalculadoraDeOrcamentosDeExames\CalculadoraDeOrcamentos\obj\Debug\net6.0\CalculadoraDeOrcamentos.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\CalculadoraDeOrcamentosDeExames\CalculadoraDeOrcamentos\obj\Debug\net6.0\ref\CalculadoraDeOrcamentos.dll
